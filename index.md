@@ -36,7 +36,7 @@ My GitHub page is *http://github.com/bpangilinan23.*
 
 3.  **Lab 8 - Part 2**
 
-    * Lastly, Lab 8 - Part 2 was a favorite, mostly because it used patterns and loops. I had a little trouble tracing loops, especially with nested loops that vary, so it was nice to create a program that generates a visual under different conditions.
+    * Lastly, Lab 8 - Part 2 was a favorite, mostly because it used patterns and loops. I had a little trouble tracing loops, especially nested ones, and differentiating how the inner and outer loops affect each other. Doing this lab was helpful since it also generated a visual understanding of the nested loops under different conditions.
 
         ###### Output
         > ![Lab 8 Output](Images/Lab8%20_Part%202.png)
