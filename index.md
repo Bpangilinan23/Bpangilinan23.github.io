@@ -25,14 +25,14 @@ My GitHub page is *http://github.com/bpangilinan23.*
 
         | Test Cases | Output |
         |----------------|----------------|
-        | Secret: 6 Guess: 2 & 6 | ![Lab 4 Terminal 1](Images/Lab4%20_Part2%20_1.png) | 
-        | Secret: 6 Guess: 1 & 2 | ![Lab 4 Terminal 2](Images/Lab4_Part2_2.png) |
+        | Secret: 6 <br> Guess: 2 & 6 | ![Lab 4 Terminal 1](Images/Lab4%20_Part2%20_1.png) | 
+        | Secret: 6 <br> Guess: 1 & 2 | ![Lab 4 Terminal 2](Images/Lab4_Part2_2.png) |
 
 2. **Lab 7 - Part 1**
 
     * Another one of my favorite labs was Lab 7 - Part 1; This one stood out to me since it dealt with a more real-world problem. This lab wanted to make a program that followed strict parking rules, given different values/arguments. It was pretty hard to ensure all the conditions were met, nevertheless it was great practice for things like Boolean expressions.
 
-    ![Lab 7 Part 1 GIF](Images/tty.gif)
+        ![Lab 7 Part 1 GIF](Images/tty.gif)
 
 3.  **Lab 8 - Part 2**
 
